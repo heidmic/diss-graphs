@@ -1,0 +1,11 @@
+Problem,MIN_COMP,MAX_COMP,MEAN_COMP,STD_COMP,MEDIAN_COMP,MEAN_MSE,STD_MSE
+combined_cycle_power_plant,2.0,6.0,3.86,0.75,4.0,0.0675,0.0029
+
+airfoil_self_noise,29.0,41.0,34.83,2.51,35.0,0.2447,0.0323
+
+concrete_strength,22.0,31.0,26.02,2.18,26.0,0.1776,0.0246
+
+protein_structure,5.0,12.0,8.58,1.63,8.5,0.6802,0.011
+
+parkinson_total,5.0,13.0,7.8,1.88,7.5,0.7047,0.0368
+

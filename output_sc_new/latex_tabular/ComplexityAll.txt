@@ -1,0 +1,31 @@
+\begin{tabular}{llrrrrr}
+\toprule
+     &                    &   CS &   CCPP &   ASN &   PPPTS &    PT \\
+\midrule
+ GA  & mean               & 2    &   9.12 & 11.58 &    1    &  5.38 \\
+ GA  & standard deviation & 0    &   1.23 &  1.64 &    0    &  1.27 \\
+ GA  & median             & 2    &   9    & 11    &    1    &  5    \\
+ GA  & min                & 2    &   6    &  8    &    1    &  3    \\
+ GA  & max                & 2    &  12    & 16    &    1    &  9    \\
+ ABC & mean               & 3.86 &  34.83 & 26.02 &    8.58 &  7.8  \\
+ ABC & standard deviation & 0.75 &   2.51 &  2.18 &    1.63 &  1.88 \\
+ ABC & median             & 4    &  35    & 26    &    8.5  &  7.5  \\
+ ABC & min                & 2    &  29    & 22    &    5    &  5    \\
+ ABC & max                & 6    &  41    & 31    &   12    & 13    \\
+ ACO & mean               & 3.72 &  40.75 & 26.39 &    9.14 & 10.56 \\
+ ACO & standard deviation & 0.81 &   3.32 &  2.02 &    1.71 &  3.28 \\
+ ACO & median             & 4    &  40.5  & 26.5  &    9    & 10    \\
+ ACO & min                & 2    &  33    & 22    &    5    &  5    \\
+ ACO & max                & 5    &  47    & 31    &   13    & 22    \\
+ GWO & mean               & 3.88 &  39.67 & 25.16 &    8.39 &  9.02 \\
+ GWO & standard deviation & 0.75 &   3.9  &  2.37 &    1.75 &  2.83 \\
+ GWO & median             & 4    &  40    & 25.5  &    8    &  9    \\
+ GWO & min                & 2    &  30    & 19    &    4    &  4    \\
+ GWO & max                & 5    &  49    & 31    &   13    & 17    \\
+ PSW & mean               & 3.81 &  36.22 & 27.41 &    9.97 & 12.88 \\
+ PSW & standard deviation & 0.75 &   2.7  &  2.41 &    2.05 &  4.18 \\
+ PSW & median             & 4    &  36    & 27    &   10    & 12    \\
+ PSW & min                & 3    &  29    & 22    &    6    &  5    \\
+ PSW & max                & 6    &  42    & 32    &   16    & 22    \\
+\bottomrule
+\end{tabular}
