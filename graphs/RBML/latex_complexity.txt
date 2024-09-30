@@ -1,9 +1,9 @@
-\begin{tabular}{rllll}
+\begin{tabular}{rlllll}
 \toprule\multicolumn{2}{c}{combined_cycle_power_plant} & \multicolumn{2}{c}{airfoil_self_noise} & \multicolumn{2}{c}{concrete_strength} & \multicolumn{2}{c}{energy_cool} &
-    &               & 0              & 1             & 2             \\
+    &      & 0             & 1              & 2             & 3             \\
 \midrule
-  SupRB & 2.97±0.67     & 32.67±2.8      & 28.47±2.68    & 11.84±1.85    \\
-  XCSF  & 1922.71±390.7 & 1617.58±413.12 & 481.68±336.33 & 707.94±282.16 \\
-  DT    & 556.44±18.38  & 67.92±2.59     & 110.62±6.37   & 26.5±0.71     \\
+  0 & ES   & 2.97±0.67     & 32.67±2.8      & 28.47±2.68    & 11.84±1.85    \\
+  1 & XCSF & 1922.71±390.7 & 1617.58±413.12 & 481.68±336.33 & 707.94±282.16 \\
+  2 & DT   & 556.44±18.38  & 67.92±2.59     & 110.62±6.37   & 26.5±0.71     \\
 \bottomrule
 \end{tabular}
